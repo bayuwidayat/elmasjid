@@ -9,7 +9,7 @@ Anda dapat membaca pandunan penggunaan website melalui link berikut ini https://
 Semoga bermanfaat. Spesifikasi Teknis Source Code Website ini dikembangkan dengan beberapa spesifikasi:
 
 1. Dikembangkan dengan Codeigniter 4. Pastikan teman-teman membaca Server Requirements dari CI4.
-2. Template Admin menggunakan AdminLTE 3.1.0. Bisa diakses di https://adminlte.io/
+2. Template Admin menggunakan AdminLTE 3.2.0. Bisa diakses di https://adminlte.io/
 3. Template front end menggunakan Startup2 1.0.0 dari https://htmlcodex.com/startup-website-template/
 
 # Fitur-fitur Website meliputi:
