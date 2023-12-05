@@ -1,0 +1,27 @@
+INFO - 2023-09-21 04:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 04:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 04:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 04:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-09-21 05:01:26 --> Undefined property: stdClass::$gmap
+in APPPATH\Views\frontend\elmasjid\kontak.php on line 22.
+ 1 APPPATH\Views\frontend\elmasjid\kontak.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: stdClass::$gmap', 'C:\\laragon\\www\\lcms\\app\\Views\\frontend\\elmasjid\\kontak.php', 22, [...])
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\lcms\\app\\Views\\frontend\\elmasjid\\kontak.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('frontend/elmasjid/kontak', [], true)
+ 5 APPPATH\Controllers\Home.php(60): view('frontend/elmasjid/kontak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(915): App\Controllers\Home->kontak()
+ 7 SYSTEMPATH\CodeIgniter.php(492): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-09-21 05:04:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-09-21 05:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
