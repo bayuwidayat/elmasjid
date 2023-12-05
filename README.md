@@ -1,3 +1,62 @@
+# eL Masjid
+
+## Apa itu eL Masjid?
+
+el Masjid adalah source code company profile website masjid dengan Codeigniter 4
+
+Anda dapat membaca pandunan penggunaan website melalui link berikut ini https://lintangdigital.com/. Adapun demo dapat Anda akses di http://elmasjid.lintangdemo.my.id/.
+
+Semoga bermanfaat. Spesifikasi Teknis Source Code Website ini dikembangkan dengan beberapa spesifikasi:
+
+1. Dikembangkan dengan Codeigniter 4. Pastikan teman-teman membaca Server Requirements dari CI4.
+2. Template Admin menggunakan AdminLTE 3.1.0. Bisa diakses di https://adminlte.io/
+3. Template front end menggunakan Startup2 1.0.0 dari https://htmlcodex.com/startup-website-template/
+
+# Fitur-fitur Website meliputi:
+## HALAMAN FRONT END:
+1. Halaman Beranda/Homepage
+2. Banner slider
+3. Jadwal Shalat
+4. Sekilas Info (running text)
+5. Halaman berita dan detailnya
+6. Halaman profile
+7. Halaman layanan
+8. Halaman takmir
+9. Halaman galeri gambar
+10. Halaman galeri video
+11. Halaman Jadwal Jumat
+12. Halaman Laporan Infaq
+13. Halaman Agenda
+14. Halaman Pengumuman
+15. Halaman Tausiyah
+16. Halaman kontak
+17. Tombol Whatsapp
+    
+## HALAMAN BACK END:
+1. Login dan logout
+2. Halaman update profile dan ganti password
+3. Halaman Dashboard
+4. Halaman kelola berita dan kategorinya
+5. Halaman kelola layanan dan profil
+6. Halaman kelola takmir masjid
+7. Halaman kelola agenda
+8. Halaman kelola pengumuman
+9. Halaman kelola galeri gambar dan albumnya
+10. Halaman kelola galeri video dan kategorinya
+11. Halaman kelola user
+12. Halaman kelola konfigurasi website, logo
+13. Halaman kelola infaq
+14. Halaman kelola Jadwal Jumat
+15. Dan fitur lainnya
+
+## Mengakses Halaman Website dan Login ke Admin
+Buka browser Anda
+Ketik alamat https://websitenda.com
+Untuk Login ke halaman Back End, silakan buka https://websitenda.com/login
+Username: admin
+Password: admin
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
