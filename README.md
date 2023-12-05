@@ -50,11 +50,11 @@ Semoga bermanfaat. Spesifikasi Teknis Source Code Website ini dikembangkan denga
 15. Dan fitur lainnya
 
 ## Mengakses Halaman Website dan Login ke Admin
-Buka browser Anda
-Ketik alamat https://websitenda.com
-Untuk Login ke halaman Back End, silakan buka https://websitenda.com/login
-Username: admin
-Password: admin
+1. Buka browser Anda
+2. Ketik alamat https://websitenda.com
+3. Untuk Login ke halaman Back End, silakan buka https://websitenda.com/login
+4. Username: admin
+5. Password: admin
 
 
 # CodeIgniter 4 Framework
